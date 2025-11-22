@@ -1,6 +1,6 @@
 <p>         Hi 👋 Welcome to my page! </br>
-<h1 align="center" >I'm Mujtaba Baig</h1>
-<h3 align="center">A passionate Full-Stack developer -> AI ML Enthusiast</h3>
+<h1 align="center" >I'm Ahsan Ali</h1>
+<h3 align="center">A passionate Full-Stack developer (MERN + MEVN)</h3>
 
  
 <h3>Technologies I Code With</h3>
@@ -24,9 +24,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mojo-jojoo" alt="mojo-jojoo" /></a> </p>
 
-- 🔭 I’m currently working on **mern Stack projects**
-
-- 📫 How to reach me **baigmujtaba123@gmail.com**
+- 📫 How to reach me **ahsanalise226@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
