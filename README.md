@@ -1,8 +1,6 @@
-<p>         Hi 👋 Welcome to my page! </br>
+<p>Hi 👋 Welcome to my page! </br>
 <h1 align="center" >I'm Ahsan Ali</h1>
 <h3 align="center">A passionate Full-Stack developer (MERN + MEVN)</h3>
-
- 
 <h3>Technologies I Code With</h3>
 
 <!-- Increased badge size by changing 'flat-square' to 'for-the-badge' for larger visuals -->
@@ -19,7 +17,6 @@
 <img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mojo-jojoo" alt="mojo-jojoo" /></a> </p>
 
 - 📫 How to reach me **ahsanalise226@gmail.com**
 
