@@ -1,6 +1,6 @@
 <p>Hi 👋 Welcome to my page! </br>
 <h1 align="center" >I'm Ahsan Ali</h1>
-<h3 align="center">A passionate Full-Stack developer (MERN + MEVN)</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 <h3>Technologies I Code With</h3>
 
 <!-- Increased badge size by changing 'flat-square' to 'for-the-badge' for larger visuals -->
